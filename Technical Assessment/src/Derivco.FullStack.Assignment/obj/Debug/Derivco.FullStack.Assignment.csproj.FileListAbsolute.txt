@@ -1,0 +1,5 @@
+D:\Новая папка\Technical Assessment\src\Derivco.FullStack.Assignment\bin\Debug\Derivco.FullStack.Assignment.dll
+D:\Новая папка\Technical Assessment\src\Derivco.FullStack.Assignment\bin\Debug\Derivco.FullStack.Assignment.pdb
+D:\Новая папка\Technical Assessment\src\Derivco.FullStack.Assignment\obj\Debug\Derivco.FullStack.Assignment.csproj.CoreCompileInputs.cache
+D:\Новая папка\Technical Assessment\src\Derivco.FullStack.Assignment\obj\Debug\Derivco.FullStack.Assignment.dll
+D:\Новая папка\Technical Assessment\src\Derivco.FullStack.Assignment\obj\Debug\Derivco.FullStack.Assignment.pdb
